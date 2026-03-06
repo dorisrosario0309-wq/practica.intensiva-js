@@ -52,5 +52,13 @@ Por valor:
 
 INVESTIGAR FUNCIONES TIPO FLECHA, IF Y SWITCHES EN JS 
 
+Para crear un commit:
+
+git status
+git add .
+git commit -m "Agregue conexion backend con node.js"
+
+Crear un repositorio en git
+
 
 
