@@ -1,0 +1,56 @@
+//Eventos, tipos de variables,
+operadores matematicos/condicionales,
+sincronias, manejo de errores,funciones y sus tipos.
+
+//Nota: Javascript se puede aplicar tanto en Frontend como en Backend. 
+
+-Javascript maneja los distintos tipos de variables tales como:
+
+Enero, string, char, flotante/decimal, booleano, text, etc.
+
+Las tres variables que maneja Javascript:
+
+const, 
+const pi = 3.14; Despues, en otra parte del codigo no puedo cambiar el valor de esta constante
+
+let, 
+let = 1;
+let = 'hola';
+
+var, (no se usa mucho porque los valores se pueden sobrecargar a nivel de memoria)
+--------------------------------------------------------------------------------------
+DE ESTO INVESTIGA:
+Diferencia entre let, const y variables
+--------------------------------------------------------------------------------------
+
+Valores de entrada y salida en js:
+Promt (entrada) por ejemplo cuando en el navegador sale pra que escribas algo 
+alert (salida)
+console.log (salida)
+
+Forma de pasar parametros: por valor y por referencia
+
+let a = ((n1, n2) => {
+    return n1 + n2;
+})
+
+
+switch(notafinal){
+    case 70:
+        console.log('aprobado');
+        break;
+        default:
+        console.log('pasando');
+}
+
+
+Por referencia:
+
+
+
+Por valor:
+
+INVESTIGAR FUNCIONES TIPO FLECHA, IF Y SWITCHES EN JS 
+
+
+
